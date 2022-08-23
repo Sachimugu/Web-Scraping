@@ -2,8 +2,21 @@
 This directory contain websraping related projects
 
 ---
-### 1. : Webscaping Netnaija
-Scraped movie data from <a href="https://www.thenetnaija.com/videos/movies"> Netnaija</a> In this project i used:
-- Requests library to load the page content
-- Beautifull soup library to parse the html content
-- Pandas library to create the data set 
+### NG Health Registry
+Nigerian health facilities, it locations and  staff
+https://hfr.health.gov.ng/facilities/hospitals-list 
+
+### Anti Hypertensive drug reviews
+Reviews of commonly prescribed anti hypertensive drugs
+https://www.drugs.com/
+https://www.askapatient.com/
+
+### Webscaping Netnaija
+Movie dataset 
+https://www.thenetnaija.net/videos/movies
+
+### SpaceX
+SpaceX Falcon9 rocket launch
+https://www.spacex.com/vehicles/falcon-9/
+
+
