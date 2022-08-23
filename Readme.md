@@ -1,5 +1,5 @@
 ## Project Details
-This directory contain websraping related projects
+This directory contains webscraping related projects
 
 ---
 ### NG Health Registry
